@@ -1,6 +1,32 @@
 {
 
-"'gender'":[
+"'gender=B'":[
+    { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
+    { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
+    { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
+    { "src": "3", "singer_en": "gggg" ,"singer_zh": "無名 3"},
+    { "src": "4", "singer_en": "aaaa" ,"singer_zh": "無名 4"},
+    { "src": "5", "singer_en": "xxxxx" ,"singer_zh": "無名 5"},
+    { "src": "6", "singer_en": "yyyyy" ,"singer_zh": "無名 6"},
+    { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
+    { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
+  ],
+
+
+  "'gender=M'":[
+    { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
+    { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
+    { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
+    { "src": "3", "singer_en": "gggg" ,"singer_zh": "無名 3"},
+    { "src": "4", "singer_en": "aaaa" ,"singer_zh": "無名 4"},
+    { "src": "5", "singer_en": "xxxxx" ,"singer_zh": "無名 5"},
+    { "src": "6", "singer_en": "yyyyy" ,"singer_zh": "無名 6"},
+    { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
+    { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
+  ],
+
+  
+  "'gender=F'":[
     { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
     { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
     { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
@@ -11,6 +37,7 @@
     { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
     { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
   ]
+
 
 
 
