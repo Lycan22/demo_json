@@ -1,6 +1,6 @@
 {
 
-"'gender=B'":[
+"gender=B":[
     { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
     { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
     { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
@@ -13,7 +13,7 @@
   ],
 
 
-  "'gender=M'":[
+  "gender=M":[
     { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
     { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
     { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
@@ -26,7 +26,7 @@
   ],
 
   
-  "'gender=F'":[
+  "gender=F":[
     { "src": "0", "singer_en": "xxxxxx" ,"singer_zh": "無名"},
     { "src": "1", "singer_en": "yyyyy" ,"singer_zh": "無名 1"},
     { "src": "2", "singer_en": "zzzz" ,"singer_zh": "無名 2"},
