@@ -41,28 +41,28 @@
   
   "singer_en=RubberBand":[
       {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "001","song":"發現號","years":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"C"
-      ,"currentKey":"C","progression":"C","saveTime":"X","saveTimeLong":"XX","theme":"XX","verson":"A"},
+      ,"currentKey":"C","progression":"C","saveTime":"X","saveTimeLong":"XX","theme":"XX","verson":"1"},
     
       {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "002","song":"阿波羅","years":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":"C"
-      ,"currentKey":"A","progression":"C","saveTime":"V","saveTimeLong":"B","theme":"V","verson":"B"},
+      ,"currentKey":"A","progression":"C","saveTime":"V","saveTimeLong":"B","theme":"V","verson":"2"},
      
       {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "003","song":"未來見","years":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"A"
-      ,"currentKey":"V","progression":"B","saveTime":"A","saveTimeLong":"B","theme":"N","verson":"M"},
+      ,"currentKey":"V","progression":"B","saveTime":"A","saveTimeLong":"B","theme":"N","verson":"3"},
         
       {"singer_en": "Dear Jane", "singer_zh": "Dear Jane" ,"id": "004","song":"銀河修理員","years":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"D"
-      ,"currentKey":"D","progression":"C","saveTime":"A","saveTimeLong":"V","theme":"V","verson":"N"},
+      ,"currentKey":"D","progression":"C","saveTime":"A","saveTimeLong":"V","theme":"V","verson":"4"},
           
       {"singer_en": "Dear Jane", "singer_zh": "橡膠樂隊" ,"id": "005","song":"未開始已經結束","years":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"D"
-      ,"currentKey":"C","progression":"A","saveTime":"C","saveTimeLong":"V","theme":"B","verson":"M"},
+      ,"currentKey":"C","progression":"A","saveTime":"C","saveTimeLong":"V","theme":"B","verson":"5"},
    
       {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "006","song":"逆流之歌","years":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"G"
-      ,"currentKey":"H","progression":"A","saveTime":"X","saveTimeLong":"F","theme":"G","verson":"H"}, 
+      ,"currentKey":"H","progression":"A","saveTime":"X","saveTimeLong":"F","theme":"G","verson":"6"}, 
      
       {"singer_en": "Charmaine", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","years":"001","composer":"001","lyricist":"001","originalKey":"F","chordsheet":"g"
-      ,"currentKey":"G","progression":"G","saveTime":"A","saveTimeLong":"C","theme":"Z","verson":"D"},
+      ,"currentKey":"G","progression":"G","saveTime":"A","saveTimeLong":"C","theme":"Z","verson":"7"},
        
       {"singer_en": "Charmaine", "singer_zh": "方皓玟" ,"id": "008","song":"你是你本身的傳奇","years":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":"h"
-      ,"currentKey":"C","progression":"Z","saveTime":"F","saveTimeLong":"F","theme":"A","verson":"E"}
+      ,"currentKey":"C","progression":"Z","saveTime":"F","saveTimeLong":"F","theme":"A","verson":"8"}
   ]
 
 
