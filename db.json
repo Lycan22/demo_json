@@ -58,10 +58,10 @@
           { "singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "006","song":"逆流之歌","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"G"
           ,"currentKey":"H","progression":"A","saveTime":"X","saveTimeLong":"F","theme":"G","verson":"H"}, 
      
-          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","year":"001","composer":"001","lyricist":"001","originalKey":"F","chordsheet":""
+          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","year":"001","composer":"001","lyricist":"001","originalKey":"F","chordsheet":"g"
           ,"currentKey":"G","progression":"G","saveTime":"A","saveTimeLong":"C","theme":"Z","verson":"D"},
        
-          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "008","song":"你是你本身的傳奇","year":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":""
+          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "008","song":"你是你本身的傳奇","year":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":"h"
           ,"currentKey":"C","progression":"Z","saveTime":"F","saveTimeLong":"F","theme":"A","verson":"E"}
   ]
 
