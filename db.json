@@ -36,7 +36,35 @@
     { "src": "6", "singer_en": "yyyyy" ,"singer_zh": "無名 6"},
     { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
     { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
+  ],
+
+  
+  "singer_en=xxxxxx":[
+        { "singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "001","song":"發現號","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"C"
+        ,"currentKey":"C","progression":"C","saveTime":"X","saveTimeLong":"XX","theme":"XX","verson":"A"},
+    
+        { "singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "002","song":"阿波羅","year":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":"C"
+         ,"currentKey":"A","progression":"C","saveTime":"V","saveTimeLong":"B","theme":"V","verson":"B"},
+     
+        { "singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "003","song":"未來見","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"A"
+        ,"currentKey":"V","progression":"B","saveTime":"A","saveTimeLong":"B","theme":"N","verson":"M"},
+        
+        { "singer_en": "Dear Jane", "singer_zh": "Dear Jane" ,"id": "004","song":"銀河修理員","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"D"
+          ,"currentKey":"D","progression":"C","saveTime":"A","saveTimeLong":"V","theme":"V","verson":"N"},
+          
+          { "singer_en": "Dear Jane", "singer_zh": "橡膠樂隊" ,"id": "005","song":"未開始已經結束","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"D"
+            ,"currentKey":"C","progression":"A","saveTime":"C","saveTimeLong":"V","theme":"B","verson":"M"},
+   
+          { "singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "006","song":"逆流之歌","year":"001","composer":"001","lyricist":"001","originalKey":"C","chordsheet":"G"
+          ,"currentKey":"H","progression":"A","saveTime":"X","saveTimeLong":"F","theme":"G","verson":"H"}, 
+     
+          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","year":"001","composer":"001","lyricist":"001","originalKey":"F","chordsheet":""
+          ,"currentKey":"G","progression":"G","saveTime":"A","saveTimeLong":"C","theme":"Z","verson":"D"},
+       
+          { "singer_en": "Charmaine Fong Ho-Man", "singer_zh": "方皓玟" ,"id": "008","song":"你是你本身的傳奇","year":"001","composer":"001","lyricist":"001","originalKey":"A","chordsheet":""
+          ,"currentKey":"C","progression":"Z","saveTime":"F","saveTimeLong":"F","theme":"A","verson":"E"}
   ]
+
 
 
 
