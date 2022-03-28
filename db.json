@@ -76,6 +76,15 @@
 
 
 
+  ],
+
+  "latest":[
+    {"singer_en": "Endy Chow", "singer_zh": "周國賢" ,"id": "003","song":"凡夫的樂章 ","years":"2019","originalKey":"C"},
+    {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "001","song":"發現號","years":"001","originalKey":"C"},
+    {"singer_en": "RubberBand", "singer_zh": "橡膠樂隊" ,"id": "002","song":"未來見","years":"001","originalKey":"A"},
+    {"singer_en": "Charmaine", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","years":"001","originalKey":"F"},
+    {"singer_en": "Dear Jane", "singer_zh": "橡膠樂隊" ,"id": "005","song":"未開始已經結束","years":"001","originalKey":"C"}
+
   ]
 
 
