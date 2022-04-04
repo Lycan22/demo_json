@@ -1,18 +1,5 @@
 {
 
-"gender=B":[
-    { "src": "0", "singer_en": "RubberBand" ,"singer_zh": "橡膠樂隊"},
-    { "src": "1", "singer_en": "Dear Jane" ,"singer_zh": "Dear Jane"},
-    { "src": "2", "singer_en": "Charmaine" ,"singer_zh": "方皓玟"},
-    { "src": "3", "singer_en": "Endy Chow" ,"singer_zh": "周國賢"},
-    { "src": "4", "singer_en": "aaaa" ,"singer_zh": "無名 4"},
-    { "src": "5", "singer_en": "xxxxx" ,"singer_zh": "無名 5"},
-    { "src": "6", "singer_en": "Dear Jane" ,"singer_zh": "Dear Jane"},
-    { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
-    { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
-  ],
-
-
   "gender=M":[
     { "src": "0", "singer_en": "RubberBand" ,"singer_zh": "橡膠樂隊"},
     { "src": "1", "singer_en": "Dear Jane" ,"singer_zh": "Dear Jane"},
@@ -73,8 +60,16 @@
     {"singer_en": "Charmaine", "singer_zh": "方皓玟" ,"id": "007","song":"假使世界原來不像你預期","years":"001","originalKey":"F"},
     {"singer_en": "Dear Jane", "singer_zh": "橡膠樂隊" ,"id": "005","song":"未開始已經結束","years":"001","originalKey":"C"}
 
-  ]
+  ],
 
+  "id=003":[
+    {"singer_en": "Endy Chow", "singer_zh": "周國賢" ,"id": "003","song":"凡夫的樂章 ","years":"2019","composer":"周國賢","lyricist":"李倩菱","originalKey":"C",
+      
+    "chordsheet":"如(不)C 見太陽 仍(朝)D 着方向 (明)Bm 日也閃(亮)Em 從(心)Am 的歌唱 閉(起)D 你雙眼胡亂(唱)G 孩(子)G7 捉緊理想(C) 未會萬(世)D 景仰沿(途)Bm 未會獲(獎)Em 卻(感)Am 到滿足 已(找)D 到生命去(向)G G7.  KEY C: C D E F G A B",
+    
+    "currentKey":"C","progression":"B","saveTime":"A","saveTimeLong":"B","theme":"NX","verson":"3"}
+
+  ]
 
 
 
