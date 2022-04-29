@@ -13,16 +13,9 @@
   ],
 
   
-  "gender=F":[
-    { "src": "0", "singer_en": "RubberBand" ,"singer_zh": "橡膠樂隊"},
-    { "src": "1", "singer_en": "Dear Jane" ,"singer_zh": "Dear Jane"},
-    { "src": "2", "singer_en": "Charmaine" ,"singer_zh": "方皓玟"},
-    { "src": "3", "singer_en": "Endy Chow" ,"singer_zh": "周國賢"},
-    { "src": "4", "singer_en": "aaaa" ,"singer_zh": "無名 4"},
-    { "src": "5", "singer_en": "xxxxx" ,"singer_zh": "無名 5"},
-    { "src": "6", "singer_en": "Dear Jane" ,"singer_zh": "Dear Jane"},
-    { "src": "7", "singer_en": "hhhhh" ,"singer_zh": "無名 7"},
-    { "src": "8", "singer_en": "ppppp" ,"singer_zh": "無名 8"}
+  "user=12345678":[
+    { "username": "Anthelion", "title": "Founder" ,"identity": "導師"}
+    
   ],
 
   
