@@ -14,7 +14,7 @@
 
   
   "user=12345":[
-    { "username": "Anthelion", "title": "Founder" ,"identity": "導師"}
+    { "username": "Anthelion", "title": "Founder" ,"identity": "導師","record":"xxyy, xxxx, ffff","bookmarks":"xx,xxx,ccc,ccc","follower":"xx,xxx,xxx,dd"}
     
   ],
 
