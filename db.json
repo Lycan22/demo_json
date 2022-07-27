@@ -14,8 +14,9 @@
 
   
   "user=12345":[
-    { "username": "Anthelion", "title": "Founder" ,"identity": "導師","records":["WE ARE", "竇 (feat. cehryl)", "OFF/ON","老派約會之必要", 
-    "小心地滑", "污糟兒"],"activities":["WE ARE", "竇 (feat. cehryl)", "OFF/ON","老派約會之必要", "小心地滑", "污糟兒"],"followers":"99","post":"99"}
+    { "username": "Anthelion", "title": "Founder" ,"identity": "導師","records":[ {"1": "WE ARE"}, {"2" :"竇 (feat. cehryl)"}, {"3": "OFF/ON"},{"4": "老派約會之必要"}, 
+    {"5": "小心地滑"}, {"6": "污糟兒"}],"activities":[{"1": "WE ARE"}, {"2" :"竇 (feat. cehryl)"}, {"3": "OFF/ON"},{"4": "老派約會之必要"}, 
+    {"5": "小心地滑"}, {"6": "污糟兒"}],"followers":"99","post":"99"}
     
   ],
 
